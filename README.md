@@ -2,7 +2,7 @@
 ### Description of the data
 
 
-Data used for RICE and ICE frameworks
+#### Data used for RICE and ICE frameworks
 
 
 
@@ -26,7 +26,7 @@ Confidence — confidence in the hypothesis, on a scale of one to ten
 Effort — the resources required to test a hypothesis, on a scale of one to ten. The higher the Effort value, the more resource-intensive the test.
 
 
-Data used for A/B tests
+#### Data used for A/B tests
 
 
  /datasets/orders_us.csv
@@ -44,7 +44,7 @@ date — of the order
 revenue — from the order
 
 
-group — the A/B test group that the user belongs to
+#### group — the A/B test group that the user belongs to
 
 
 /datasets/visits_us.csv
