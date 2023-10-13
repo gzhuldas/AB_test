@@ -28,6 +28,10 @@ Identified the difference between the frameworks.
 /datasets/visits_us.csv<br>date — date<br>group — A/B test group<br>visits — the number of visits on the date specified in the A/B test group specified
 
 
+There were mistakes in the original datasets; some of the visitors might have gotten into both group A and group B. So the data were divided into filtered and unfiltered versions. A/B tests were conducted for both versions.
+
+
+
 #### Cumulative revenue by group.
 ![image](https://github.com/gzhuldas/AB_test/assets/72769986/405c619d-4595-4188-9763-38b468a6e2f0)
 
