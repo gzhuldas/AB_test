@@ -9,7 +9,6 @@
 /datasets/hypotheses_us.csv 
 
 
-
 Hypotheses — brief descriptions of the hypotheses
 
 
