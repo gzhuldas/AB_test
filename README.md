@@ -8,4 +8,6 @@ Identified the difference between the frameworks.
 
 #### Cumulative revenue by group.
 ![image](https://github.com/gzhuldas/AB_test/assets/72769986/405c619d-4595-4188-9763-38b468a6e2f0)
+Analysis:
+Up until mid-August the cumulative revenue gained from both groups were relatively stable and tended to increase. But after that group B had a sudden spike reaching about 60000, while group A stayed at around 30000. This is definitely related to an increase of average order size in group B from the previuos graph. If the number of orders for both groups on 20/08/19 did not change compared to previous dates that would mean that clients of group B either spent more money in general or somebody made a very expensive purchase which led to the distortion of results.
 
