@@ -1,4 +1,4 @@
-# A/B test. Prioritizing and testing hypotheses for online retail store.
+## A/B test. Prioritizing and testing hypotheses for online retail store.
 
 ### Assigned tasks description: 
 1. Worked closely with Marketing Department of online retail store to complile a list of 9 hypotheses to boost revenue.
