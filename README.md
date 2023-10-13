@@ -1,4 +1,24 @@
 # AB_test
+Description of the data/
+Data used in the first part of the project/
+/datasets/hypotheses_us.csv Download dataset
+Hypotheses — brief descriptions of the hypotheses
+Reach — user reach, on a scale of one to ten
+Impact — impact on users, on a scale of one to ten
+Confidence — confidence in the hypothesis, on a scale of one to ten
+Effort — the resources required to test a hypothesis, on a scale of one to ten. The higher the Effort value, the more resource-intensive the test.
+Data used in the second part of the project
+ /datasets/orders_us.csv Download dataset
+transactionId — order identifier
+visitorId — identifier of the user who placed the order
+date — of the order
+revenue — from the order
+group — the A/B test group that the user belongs to
+/datasets/visits_us.csv Download dataset
+date — date
+group — A/B test group
+visits — the number of visits on the date specified in the A/B test group specified
+
 ### Assigned tasks description: 
 1. Worked closely with Marketing Department of online retail store to complile a list of 9 hypotheses to boost revenue.
 Each hypothesis were specified according to Reach, Impact, Confidence and Effort. Prioritized the hypotheses according to ICE and RICE frameworks.
@@ -12,4 +32,6 @@ Identified the difference between the frameworks.
 
 Analysis:
 Up until mid-August the cumulative revenue gained from both groups were relatively stable and tended to increase. But after that group B had a sudden spike reaching about 60000, while group A stayed at around 30000. This is definitely related to an increase of average order size in group B from the previuos graph. If the number of orders for both groups on 20/08/19 did not change compared to previous dates that would mean that clients of group B either spent more money in general or somebody made a very expensive purchase which led to the distortion of results.
+
+#### Cumulative average order size by group.
 
