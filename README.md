@@ -31,7 +31,11 @@ Identified the difference between the frameworks.(More about that in Python Note
 There were mistakes in the original datasets; some of the visitors might have gotten into both group A and group B. So the data were divided into filtered and unfiltered versions. A/B tests were conducted for both versions.
 
 
+#### A/B tests results for filtered and unfiltered data versions.
+The tests showed that there is difference in conversion rates between groups with both raw and filtered data. The test of average order size showed that there is no difference between the groups with both raw and filtered data. The test for raw data has shown that there is a relative revenue gain of 28% in group B compared to group A, the results for the filtered data are opposite. They showed that there is, on the contrary, a relative revenue loss of 3%. Large relative revenue gain in group B with raw data was probably due to abnormal order sizes. The test should be stopped since there is no difference between the groups. 
 
+
+#### Data Visualizations
 #### Cumulative revenue by group.
 ![image](https://github.com/gzhuldas/AB_test/assets/72769986/405c619d-4595-4188-9763-38b468a6e2f0)
 
