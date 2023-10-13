@@ -31,11 +31,11 @@ Identified the difference between the frameworks.(More about that in Python Note
 There were mistakes in the original datasets; some of the visitors might have gotten into both group A and group B. So the data were divided into filtered and unfiltered versions. A/B tests were conducted for both versions.
 
 
-#### A/B tests results for filtered and unfiltered data versions.
+### A/B tests results for filtered and unfiltered data versions.
 The tests showed that there is difference in conversion rates between groups with both raw and filtered data. The test of average order size showed that there is no difference between the groups with both raw and filtered data. The test for raw data has shown that there is a relative revenue gain of 28% in group B compared to group A, the results for the filtered data are opposite. They showed that there is, on the contrary, a relative revenue loss of 3%. Large relative revenue gain in group B with raw data was probably due to abnormal order sizes. The test should be stopped since there is no difference between the groups. 
 
 
-#### Data Visualizations
+### Data Visualizations
 #### Cumulative revenue by group.
 ![image](https://github.com/gzhuldas/AB_test/assets/72769986/405c619d-4595-4188-9763-38b468a6e2f0)
 
@@ -68,5 +68,9 @@ Analysis:<br>The scatter plot which represents the number of orders per user sho
 ![image](https://github.com/gzhuldas/AB_test/assets/72769986/94d69ed8-7578-48f2-a633-6460b4ef7678)
 
 Analysis:<br>The scatter plot with order prices shows that the majority of orders does not exceed 1000. There are two outliers of 20000 and 2500.
+
+### Results:
+
+Several graphs have been shown the average order prices between the groups and the relative difference for B compared to A. Cumulative revenue by group and the daily conversion rates for the whole month. The data used for the graphs were not filtered, which can be a probable reason why the results for group B are so different. All the graphs except for the daily conversion rates showed a huge increase in orders and revenue for group B in mid-August. Further research with data filtration has justified the assumptions about abnormalities in group B.<br>Hypotheses testing has shown that the test should be stopped since the groups have not shown any significant differences. 
 
 
