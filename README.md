@@ -1,4 +1,4 @@
-![image](https://github.com/gzhuldas/AB_test/assets/72769986/9fbc4a86-1ef5-478e-8374-e22fa0198985)# AB_test
+# AB_test
 
 ### Assigned tasks description: 
 1. Worked closely with Marketing Department of online retail store to complile a list of 9 hypotheses to boost revenue.
