@@ -20,8 +20,6 @@ Identified the difference between the frameworks.(More about that in Python Note
 
 
  /datasets/orders_us.csv<br>transactionId — order identifier<br>visitorId — identifier of the user who placed the order<br>date — of the order<br>revenue — from the order
-
-
 #### group — the A/B test group that the user belongs to
 
 
