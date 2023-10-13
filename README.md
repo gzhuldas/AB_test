@@ -1,10 +1,15 @@
 # AB_test
 ### Description of the data
----
+
+
 Data used in the first part of the project
----
+
+
+
 /datasets/hypotheses_us.csv Download dataset
----
+
+
+
 Hypotheses — brief descriptions of the hypotheses
 Reach — user reach, on a scale of one to ten
 Impact — impact on users, on a scale of one to ten
